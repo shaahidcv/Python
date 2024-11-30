@@ -91,3 +91,45 @@ else:
     print("it is not too hot and not rainy")
 
 # not makes the conditional if the condition is true it makes the condition false.
+
+#while loop
+# is used to repeat a block of code as long as a condition remains 'true' we recheck the condition at the end of the loop
+
+#if somebody entered somethimg that is not correct while loop to check
+
+# name= input("enter your name")
+
+# def new_func(name):
+#     while name== "":
+#         name = input("enter your name")
+
+#     print(f"your name is {name}")
+
+# new_func(name)
+
+
+
+# INFO: for loop : is used to iterate over a sequence (str, list, tuple,set) repeat the block of code an exact amount of times.
+
+
+for i in range(1, 11, 2): #NOTE:1st number is inclusive and 2nd number is exclusive and 3rd is increment or decrement.
+    print(i)
+
+name = "shaahid"
+
+for letter in name:
+    print(letter, end="-")
+
+# NOTE: here end="" separate each letter with -.
+
+
+# we can also use end="\n" to separate each letter with a new line.
+# we can also use end=" " to separate each letter with a space.
+
+for i in range (10,0,-1):
+    print(i)
+
+
+
+
+
