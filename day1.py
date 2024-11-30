@@ -50,11 +50,11 @@ print(type(gpa2))
 
 # if statement 
 
-age4 = int(input("enter your age : "))
-if age4 >= 18:
-    print("you can vote")
-else:
-    print("you cant vote")
+# age4 = int(input("enter your age : "))
+# if age4 >= 18:
+#     print("you can vote")
+# else:
+#     print("you cant vote")
 
 
 #elif statement
@@ -68,3 +68,26 @@ else:
 #      print("you cant vote")
     
     
+# logical operators = evaluate multiple conditions (and,or, not)
+# or operator : atleast one condition must be true
+# and operator :both condition must be true
+# not operator : it is used to reverse the condition
+
+temp = 25
+is_raining = True
+
+
+# in here if one of the condition is true we excute the if statement
+if temp > 35 or temp < 0 or is_raining:
+    print("the event is cancelled")
+else:
+    print("the event is going on")
+
+    # both condition must be true to excute the if statement when writing with and operator
+
+if temp >=20 and is_raining:
+    print("it is too hot and rainy")
+else:
+    print("it is not too hot and not rainy")
+
+# not makes the conditional if the condition is true it makes the condition false.
