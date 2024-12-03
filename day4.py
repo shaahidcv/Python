@@ -42,7 +42,7 @@ for i in range(len(normal_word)-1,-1,-1):
 if normal_word == reversed_word:
     print(f"{word} is a palindrome.")
 else:
-    print(f"{word} is not a palindrome.")
+    print(f"{word} is not a palindrome." )
 
 #simple interest:
 

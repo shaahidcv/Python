@@ -53,3 +53,30 @@ finally:
 
 #NOTE: finally block always run.
 #NOTE: we can handle multiple except statements.
+
+#NOTE: Why? OOP involves abstract concepts like "objects," "classes," "inheritance," and "polymorphism." These are not immediately tangible, making them harder to grasp.
+
+
+
+# Solution: Relate these concepts to real-world examples. For instance:
+#NOTE: A class is like a blueprint (e.g., a blueprint for a car).
+#NOTE: An object is an instance of the class (e.g., a specific car built from the blueprint).
+#NOTE: Methods are actions (e.g., driving the car).
+#NOTE: Attributes are properties (e.g., the car’s color). 
+
+
+# Solution: Build small projects using OOP:
+# Create a Car class with attributes like color and methods like drive.
+# Build a BankAccount class to model real-world banking.
+
+#NOTE: define a class
+
+class computer:
+    def config(self):
+        print("i5, 16gb")
+
+com1 = computer()
+print(type(com1))
+computer.config(com1)
+
+
