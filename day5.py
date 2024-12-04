@@ -69,14 +69,3 @@ finally:
 # Create a Car class with attributes like color and methods like drive.
 # Build a BankAccount class to model real-world banking.
 
-#NOTE: define a class
-
-class computer:
-    def config(self):
-        print("i5, 16gb")
-
-com1 = computer()
-print(type(com1))
-computer.config(com1)
-
-

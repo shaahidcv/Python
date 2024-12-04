@@ -52,3 +52,19 @@ time = 2
 
 simple_interest = (principal*rate_of_interest*time)/100
 print(simple_interest)
+
+
+a = int(input("enter a number"))
+b = int(input("enter b number"))
+
+quotient = a/b
+remainder = a%b
+
+print(f"quotient = {quotient} and remainder = {remainder}")
+
+
+c = int(input("enter c number"))
+d = int(input("enter d number"))
+
+c, d = d ,c
+print(f"c = {c} and d = {d}")
