@@ -5,12 +5,12 @@ class Car:
 
     def __init__(self, make, model, year, color):
         self.make = None
-        self.model =  None
+        self.model =  model
         self.year = None
         self.color = None
 
     def drive(self):
-        print("this car is driving.")
+        print("this "+self.model+" is driving.")
 
     def stop(self):
         print("this car is stopped.")

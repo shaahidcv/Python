@@ -65,7 +65,24 @@ finally:
 #NOTE: Attributes are properties (e.g., the car’s color). 
 
 
-# Solution: Build small projects using OOP:
+# Solution: Build small projects using OOP:2
 # Create a Car class with attributes like color and methods like drive.
 # Build a BankAccount class to model real-world banking.
+5
+# fibonacci 
 
+num = int(input("enter a number"))
+
+def fib(num):
+    if num==0:
+        return 0
+    elif num==1:
+        return 1
+    a,b=0,1
+    for _ in range(2 , num+1):
+        a,b = b, a+b
+        print(b)
+    return b
+
+
+fib(num)
