@@ -83,7 +83,7 @@ if temp > 35 or temp < 0 or is_raining:
 else:
     print("the event is going on")
 
-    # both condition must be true to excute the if statement when writing with and operator
+# both condition must be true to excute the if statement when writing with and operator
 
 if temp >=20 and is_raining:
     print("it is too hot and rainy")
