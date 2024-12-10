@@ -38,15 +38,19 @@ import time
 # even = [n for n in number if n%2==0]  #list comprension
 # print(even)
 
-numbers = []
-size = int(input("enter the size"))
+# numbers = []
+# size = int(input("enter the size"))
 
-for i in range(size):
-    num = int(input(""))
-    numbers.append(num)
+# for i in range(size):
+#     num = int(input(""))
+#     numbers.append(num)
 
-print(numbers)
-sorted_array = numbers.copy()
-sorted_array.sort()
-print(sorted_array)
+# print(numbers)
+# sorted_array = numbers.copy()
+# # sorted_array.sort()
+# print(sorted_array)
 
+message = "helloworld"
+print(message)
+print(len(message))
+print(message[:])
