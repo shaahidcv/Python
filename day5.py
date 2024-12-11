@@ -42,7 +42,7 @@ integer = input("enter a integer:")
 
 try:
     print(int(integer))
-except ValueError:
+except:
     print("Error: Invalid input. Please enter a integer.")
 else:
     print("No exception occurred.")
