@@ -30,17 +30,23 @@ for i in range(4): # outer loop determines the number of rows.
 
 
 # 2) inverted pyramid star pattern:
-num=5
+# num=5
+# for i in range(1,num+1):
+#     for j in range(num-i,0,-1): # 5-1 to 0 by step = -1    4 to 0 -1     here checking 4,3,2,1,0   are greater than 0 if yes print space else go to next for loop.
+#         print(end=" ")
+#     for j in range(0,i):
+#         print("*",end="-")
+#     print()
+
+
+num = int(input("enter a number "))
+
 for i in range(num,0,-1):
     for j in range(0,num-i):
         print(end=" ")
     for j in range(0,i):
         print("*",end=" ")
     print()
-
-
-
-
 
 
 
