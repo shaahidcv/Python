@@ -38,8 +38,19 @@ else:
     x2 = (-b - (b**2 - 4 *a*c)**0.5) / (2*a)
 
 
-
-
-
 print(x1)
 print(x2)
+
+#    curenncy exchanger
+
+co = float(input("What do you have left in pesos?"))
+pe = float(input("What do you have left in soles?"))
+br = float(input("What do you have left in reais?"))
+
+pesos_rate = 0.00023
+soles_rate = 0.27
+reais_rate = 0.16 
+
+total_USD = (co*pesos_rate)+(pe*soles_rate)+(br*reais_rate)
+print(f"Total amount in USD = {total_USD}")
+
