@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #multiplication
 
 num = int(input("enter a number: "))
@@ -9,7 +9,6 @@ else:
     for i in range(1,num):
         print(f"{i} x {num} = {i*num}")
 
-=======
 #NOTE: multiplication table:
 import time
 
@@ -66,4 +65,4 @@ message = "helloworld"
 print(message)
 print(len(message))
 print(message[:])
->>>>>>> 57522430fe4a45c03986423ab405f4849d2e2c32
+
