@@ -64,5 +64,5 @@ import time
 message = "helloworld"
 print(message)
 print(len(message))
-print(message[:])
+print(message[::-1])
 
