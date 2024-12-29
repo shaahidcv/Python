@@ -5,7 +5,7 @@
 		"sequences": {
 			"com.tldraw.store": 4,
 			"com.tldraw.asset": 1,
-			"com.tldraw.camera": 1,
+			"com.tldraw.camera": 1, 
 			"com.tldraw.document": 2,
 			"com.tldraw.instance": 25,
 			"com.tldraw.instance_page_state": 5,
