@@ -5,16 +5,16 @@
 # 2. Calculate the **sum of numbers from 1 to 100**.   ✅
 # 3. Find the **factorial of a number** using a `for` loop.   ✅
 # 4. Print the **Fibonacci series** up to `n` terms.   ✅
-# 5. Iterate over a **dictionary** and print keys and values.  
-# 6. Print the **prime numbers** between `1` and `50`.  
-# 7. Create a **pattern** using nested loops:  
+# 5. Iterate over a **dictionary** and print keys and values.   ✅
+# 6. Print the **prime numbers** between `1` and `50`.   ✅
+# 7. Create a **pattern** using nested loops:    ✅
 #     ```
 #     *
 #     * *
 #     * * *
 #     * * * *
 #     ```  
-# 8. Print the **multiplication table** for numbers from `1 to 5`.
+# 8. Print the **multiplication table** for numbers from `1 to 5`.  ✅
 
 # ## **While Loop Questions**  
 # 9. Print numbers from **10 to 1** using a `while` loop.  
