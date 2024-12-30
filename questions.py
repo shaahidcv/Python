@@ -1,10 +1,10 @@
 #NOTE: # 🌀 **1. Loops in Python**
 
 # ## **For Loop Questions**  
-# 1. Print numbers from **1 to 10** using a `for` loop.  
-# 2. Calculate the **sum of numbers from 1 to 100**.  
-# 3. Find the **factorial of a number** using a `for` loop.  
-# 4. Print the **Fibonacci series** up to `n` terms.  
+# 1. Print numbers from **1 to 10** using a `for` loop.  ✅
+# 2. Calculate the **sum of numbers from 1 to 100**.   ✅
+# 3. Find the **factorial of a number** using a `for` loop.   ✅
+# 4. Print the **Fibonacci series** up to `n` terms.   ✅
 # 5. Iterate over a **dictionary** and print keys and values.  
 # 6. Print the **prime numbers** between `1` and `50`.  
 # 7. Create a **pattern** using nested loops:  
