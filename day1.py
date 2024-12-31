@@ -10,6 +10,7 @@ is_staff = False #boolean value
 
 
 
+
 if is_staff:
     print("you are a staff")
 else:
