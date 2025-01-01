@@ -26,11 +26,11 @@
 # ## **Avoiding Built-in Functions**  
 # 14. Find the **length of a list** without using `len()`.  ✅
 # 15. Find the **sum of numbers in a list** without using `sum()`.  ✅
-# 16. Find the **maximum number in a list** without using `max()`.  
-# 17. Find the **minimum number in a list** without using `min()`.  
-# 18. Reverse a list **without using `reverse()` or slicing**.  
-# 19. Find the **second largest number in a list** manually.  
-# 20. Implement a **custom sort algorithm** (e.g., Bubble Sort).  
+# 16. Find the **maximum number in a list** without using `max()`.   ✅
+# 17. Find the **minimum number in a list** without using `min()`.  ✅
+# 18. Reverse a list **without using `reverse()` or slicing**.  ✅
+# 19. Find the **second largest number in a list** manually.  ✅
+# 20. Implement a **custom sort algorithm** (e.g., Bubble Sort).  ❌
 
 # ---
 

@@ -77,16 +77,56 @@
 
 #NOTE: question 16:
 
-my_list = [10,20,30,45,50]
+# my_list = [10,20,30,45,50]
 
-largest = my_list[0]
+# largest = my_list[0]
 
-for i in my_list:
-    if i > largest:
-        largest = i
-    else:
-        pass
+# for i in my_list:
+#     if i > largest:
+#         largest = i
+#     else:
+#         pass
 
-print(largest)
+# print(largest)
+
+#NOTE: question 17:
+
+# my_list = [10,20,30,45,50,1]
+
+# mini = my_list[0]
+
+# for i in my_list:
+#     if i < mini:
+#         mini = i
+#     else:
+#         pass
+
+# print(mini)
+
+#NOTE: question 18:
+
+# my_list = [10,20,30,45,50,1]
+
+# reversed = []
+
+# for i in range(len(my_list)-1,-1,-1):
+#     reversed.append(my_list[i])
+
+# print(reversed)
+
+#NOTE: question 19:
+
+# my_list = [10,20,6,86,15,30,45,50,1]
+
+# largest = 0
+# second_largest = 0
+
+# for i in my_list:
+#     if i > largest:
+#         second_largest = largest
+#         largest = i
+#     elif i > second_largest and i != largest:
+#         second_largest = i
 
 
+# print(second_largest)
