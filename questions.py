@@ -17,15 +17,15 @@
 # 8. Print the **multiplication table** for numbers from `1 to 5`.  ✅
 
 # ## **While Loop Questions**  
-# 9. Print numbers from **10 to 1** using a `while` loop.  
-# 10. Check if a **number is a palindrome**.  
-# 11. Create a `while` loop that keeps asking for input until the user enters `exit`.  
-# 12. Find the **sum of digits** of a number using a `while` loop.  
-# 13. Create a **number guessing game** using a `while` loop.  
+# 9. Print numbers from **10 to 1** using a `while` loop.  ✅
+# 10. Check if a **number is a palindrome**.   ✅
+# 11. Create a `while` loop that keeps asking for input until the user enters `exit`.  ✅
+# 12. Find the **sum of digits** of a number using a `while` loop.  ✅
+# 13. Create a **number guessing game** using a `while` loop.  ✅
 
 # ## **Avoiding Built-in Functions**  
-# 14. Find the **length of a list** without using `len()`.  
-# 15. Find the **sum of numbers in a list** without using `sum()`.  
+# 14. Find the **length of a list** without using `len()`.  ✅
+# 15. Find the **sum of numbers in a list** without using `sum()`.  ✅
 # 16. Find the **maximum number in a list** without using `max()`.  
 # 17. Find the **minimum number in a list** without using `min()`.  
 # 18. Reverse a list **without using `reverse()` or slicing**.  
