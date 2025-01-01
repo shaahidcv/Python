@@ -8,6 +8,7 @@ is_staff = False #boolean value
 # print(f"are you a staff : {is_staff}")
 #f string used to insert a variable. use {} to take variable name 
 
+
 if is_staff:
     print("you are a staff")
 else:
