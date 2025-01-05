@@ -2,7 +2,6 @@ import math
 
 
 
-
 print("=======================")
 print("Area Calculator  📐")
 print("=======================")
