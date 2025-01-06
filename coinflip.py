@@ -7,4 +7,3 @@ if num > 0.5:
 else:
     print("tails")
 
-
