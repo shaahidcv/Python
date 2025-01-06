@@ -4,6 +4,7 @@
 #     print(i)
 
 
+
 #NOTE: question 2:
 
 # sum = 0
