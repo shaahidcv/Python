@@ -6,4 +6,3 @@ if num > 0.5:
     print("heads")
 else:
     print("tails")
-
