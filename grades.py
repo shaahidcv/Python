@@ -1,6 +1,3 @@
-
-
-
 grade = 65
 
 if grade >= 55:
