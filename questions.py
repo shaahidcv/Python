@@ -131,12 +131,12 @@
 #NOTE: # 🧠 **7. Algorithms**
 
 # ## **Sorting Algorithms**  
-# 69. Implement **Bubble Sort** manually.  
-# 70. Implement **Selection Sort** manually.  
+# 69. Implement **Bubble Sort** manually.  ❌
+# 70. Implement **Selection Sort** manually.  ❌
 
 # ## **Searching Algorithms**  
-# 71. Implement **Linear Search** manually.  
-# 72. Implement **Binary Search** manually.  
+# 71. Implement **Linear Search** manually.  ❌
+# 72. Implement **Binary Search** manually.  ❌
 
 # ## **Math Challenges**  
 # 73. Calculate `x` raised to the power `y` **manually**.  
