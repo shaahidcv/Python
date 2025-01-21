@@ -1,8 +1,10 @@
+  
 # faherheit to celsius
 
 fahrenheit = 52
 celsius = (fahrenheit - 32) / 1.8
 print(f"celsius = {celsius}")
+
 
 
 # BMI 
