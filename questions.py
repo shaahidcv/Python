@@ -1,4 +1,4 @@
-   #NOTE: # 🌀 **1. Loops in Python**
+#NOTE: # 🌀 **1. Loops in Python**
 
 # ## **For Loop Questions**  
 # 1. Print numbers from **1 to 10** using a `for` loop.  ✅
