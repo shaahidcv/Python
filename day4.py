@@ -1,4 +1,4 @@
-numbers = [10,20,56,60,18,57,23,4]
+ numbers = [10,20,56,60,18,57,23,4]
 
 # sum = sum(numbers)
 # print("Sum of the list is: ", sum) 
