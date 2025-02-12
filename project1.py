@@ -1,4 +1,4 @@
-#NOTE: PASSWORD GENERATOR:
+ #NOTE: PASSWORD GENERATOR:
 
 import random
 
