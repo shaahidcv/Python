@@ -1,4 +1,4 @@
-#NOTE: Patterns for logic building :
+ #NOTE: Patterns for logic building :
 #pattern problems:
 
 #   1) square star pattern
